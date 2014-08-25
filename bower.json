@@ -1,0 +1,17 @@
+{
+    "name": "LearningAssignmentLibrary",
+    "version": "0.0.1",
+    "authors": [
+        "suhashm <suhas.hm109@gmail.com>"
+    ],
+    "description": "\"Learning Assignment Library\"",
+    "license": "MIT",
+    "dependencies": {
+        "toastr": "latest",
+        "jquery": "latest",
+        "angular": "latest",
+        "angular-resource": "latest",
+        "angular-route": "latest",
+        "bootstrap": "latest"
+    }
+}
